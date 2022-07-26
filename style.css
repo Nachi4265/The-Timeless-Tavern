@@ -1,0 +1,158 @@
+
+
+
+header{
+background-color: #2e130b;
+}
+
+
+/* Navigation Styling */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: lightgoldenrodyellow;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: brown;
+}
+
+
+.nav{
+background: color black;
+}
+
+/* Navigation Styling */
+
+
+
+
+
+
+
+
+
+
+/* Body, Hero image and text style */
+
+body{
+margin:0;
+  padding:0;
+  height:100vh;
+  font-family:"Times New Roman", Times, serif;
+  color: black;
+}
+
+header{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 30px 10%;
+}
+
+.heroimage {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Medevil.png");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  text-size-adjust: 70px;
+  transform: translate(-50%, -50%);
+  color: tan;
+}
+
+/* Body, Hero image and text style */
+
+
+
+
+
+
+
+/* button styling */
+
+.button {
+   background-color: tan;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 8px;
+  box-shadow: 0 9px #694310;
+}
+
+.button:active {
+  background-color: #8A6637;
+  box-shadow: 0 5px #482904;
+  transform: translateY(4px);
+}
+
+/* button styling */
+
+
+
+
+
+
+
+
+
+
+/* Footer styling */
+
+.footer {
+  background-color: #2e130b;
+  text-align: center;
+  padding: 10px;
+  height: 40px;
+  color: tan;
+}
+
+/* Footer styling */
+
+
+
+
+
+
+
+
+
+
+/* Icon styling */
+
+i{
+  color: tan;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 10px 10%;
+}
+
+/* Icon styling */
