@@ -66,7 +66,7 @@ padding: 30px 10%;
 }
 
 .heroimage {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Medevil.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Medevil\ copy.webp");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -79,7 +79,6 @@ padding: 30px 10%;
   position: absolute;
   top: 50%;
   left: 50%;
-  text-size-adjust: 70px;
   transform: translate(-50%, -50%);
   color: tan;
 }
@@ -129,7 +128,6 @@ padding: 30px 10%;
 .footer {
   background-color: #2e130b;
   text-align: center;
-  padding: 10px;
   height: 40px;
   color: tan;
 }

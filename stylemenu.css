@@ -47,14 +47,12 @@ img {
   border-radius: 18px;
   border-width: 3px;
   padding: 10px
-  margin: 20px;
-  
 }
+
 
 p{
 text-align: left;
   padding: 10px;
-
 }
 
 
@@ -91,7 +89,7 @@ h2{
 }
 
 p{
-  background-color: ;
+  background-color:tan;
   border-radius: 10px;
   margin: 10px;
   border-style: solid;
@@ -115,4 +113,12 @@ display: flex;
 justify-content: space-between;
 align-items: center;
 padding: 10px 10%;
+}
+
+.columns{
+  column-count:2 ;
+  column-width: 250px;
+  column-rule: 2px dotted;
+
+
 }
